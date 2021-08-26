@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sleekypam
+- 👋 Hi, I’m Oluwabukola
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adelakagrace@gmail.com
 
